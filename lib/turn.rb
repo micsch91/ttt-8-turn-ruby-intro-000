@@ -39,7 +39,7 @@ index = input_to_index(user_input)
 if valid_move?(board,index)
   return move(board)
 else
-return display_board(board)
+display_board(board)
 else
   turn(board)
 end
