@@ -44,4 +44,3 @@ else
   turn(board)
 end
   end
-end
